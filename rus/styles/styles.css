@@ -1,0 +1,64 @@
+body {
+    background-color: gray;
+}
+
+title {
+    color: navy;
+}
+
+p {
+    color:aqua;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+td {
+    font-size:20px; 
+    color:black;
+}
+
+input{
+   text-align: center;
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 15px;
+   font-size: 18;
+   border-radius: 15px;
+   height: 35px;
+   width: 350px;
+
+}
+
+button {
+    background-color: aqua; 
+    margin-top: 20px; 
+    font-size: 15px;
+    padding: 15px 15px;
+    border-radius: 10px;
+    
+}
+
+h2 {
+    color:black;
+}
+
+#unloginBtn {
+    color:white;
+    background-color:red;
+}
+
+#tablezakaz {
+    font-size: 30px;
+    color: black;
+}
+
+#tdAdmin {
+    font-size: 25px;
+    color: black;
+}
+
+#tdBD {
+    font-size: 25px;
+    color: white;
+}
